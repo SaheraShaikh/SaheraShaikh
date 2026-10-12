@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Sahera Shaikh — Build with curiosity. Create with purpose.</title><desc id="desc">Dark navy banner with lavender typography and abstract geometric accents.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#242044"/></linearGradient></defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<circle cx="1100" cy="40" r="170" fill="none" stroke="#a78bfa" stroke-opacity=".2" stroke-width="2"/><circle cx="1100" cy="40" r="115" fill="none" stroke="#a78bfa" stroke-opacity=".3" stroke-width="2"/>
+<path d="M895 235l50-50 50 50-50 50z" fill="#a78bfa" fill-opacity=".12"/><path d="M1030 250h90M1075 205v90" stroke="#67e8f9" stroke-opacity=".45" stroke-width="2"/>
+<text x="64" y="74" fill="#c4b5fd" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">CODE · EXPLORE · CREATE</text>
+<text x="60" y="151" fill="#f8fafc" font-family="Arial,sans-serif" font-size="58" font-weight="700">Sahera Shaikh</text>
+<text x="64" y="202" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="22">Web development · Python · Applied AI</text>
+<text x="64" y="266" fill="#a78bfa" font-family="Arial,sans-serif" font-size="18">Build with curiosity. Create with purpose.</text>
+</svg>
