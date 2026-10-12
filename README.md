@@ -1,4 +1,4 @@
-![Sahera Shaikh — Web development, Python, and applied AI](banner.svg)
+![Sahera Shaikh — Web development and Python](banner.svg)
 
 <p align="center">
   <a href="https://github.com/SaheraShaikh?tab=repositories">Explore my projects</a> ·
@@ -44,3 +44,4 @@ My projects span healthcare appointment systems, scientific collaboration analys
 ---
 
 <p align="center">Always learning. Always building.</p>
+
