@@ -16,7 +16,7 @@ My projects span healthcare appointment systems, scientific collaboration analys
 | Project | What I'm building | Technologies |
 | :--- | :--- | :--- |
 | **[Scientific Collaboration Network Analyzer](https://github.com/SaheraShaikh/Scientific-Collaboration-Network-Analyzer)** | A platform for exploring scientific collaboration networks. | React · FastAPI · PostgreSQL · Docker |
-| **[ABHEDYA](https://github.com/SaheraShaikh/ABHEDYA-IBVAP)** | A smart border surveillance prototype with detection, tracking, alerts, and a dashboard. | Python · OpenCV · FastAPI · SQLite |
+| **[DrishtiRakshak AI](https://github.com/SaheraShaikh/DrishtiRakshak-AI)** | An intelligent border surveillance and response system with detection, tracking, alerts, incidents, and operational dashboards. | Python · OpenCV · FastAPI · SQLite |
 | **[Pasteapp](https://github.com/SaheraShaikh/Pasteapp)** | A responsive workspace for text notes and code snippets, with search and browser-local storage. **[Live demo ↗](https://pasteapp-zeta.vercel.app)** | React · JavaScript |
 | **[Smart Health Appointment System](https://github.com/SaheraShaikh/Smart-Health-Appointment-System-)** | A system for managing patients, doctors, appointments, and billing. | Python · JavaScript |
 | **[Renown Thar](https://github.com/SaheraShaikh/Renown-Thar)** | An automotive fan website focused on responsive layouts and CSS design. | HTML · CSS |
